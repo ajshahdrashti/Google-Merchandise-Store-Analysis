@@ -9,6 +9,10 @@
 
 •	Got insights related to Revenue, Transactions, E-Commerce Conversion Rate, Sessions, Time on Screen, Order Value, Average Price, etc.
 
+# Google Analytics: # 
+
+![image](https://github.com/ajshahdrashti/Google-Merchandise-Store-Analysis/assets/112719599/c49251eb-dcc2-43d4-9e33-8d57b7208d83)
+
 
 # Performed Analysis and tried answering the following questions:#
 
@@ -50,7 +54,7 @@ b.	What is the number of new users in the last 14 days and what is the revenue g
 
 # Cohort Analytics:# 
 
-https://user-images.githubusercontent.com/112092937/224481583-7035f7ab-d71e-49d9-808a-4ccceb694ec0.jpg
+![image](https://github.com/ajshahdrashti/Google-Merchandise-Store-Analysis/assets/112719599/51bb524e-55ca-440d-a0ed-1013ec65aa07)
 
 
 Performed Analysis and tried answering the following questions:
@@ -62,7 +66,7 @@ Performed Analysis and tried answering the following questions:
 
 # Funnel Analytics:# 
 
-https://user-images.githubusercontent.com/112092937/224481666-8d0ea0f2-2e68-493a-b377-575d29e6dfc6.jpg
+![image](https://github.com/ajshahdrashti/Google-Merchandise-Store-Analysis/assets/112719599/cd1ab23a-1bdf-4714-9d9b-19e250b8f7d0)
 
 
 Prepared a funnel overview with 5 parts - Acquisition, Activation, Retention, Revenue, Referral, Funnel Visualization. Add different charts and graphs showing the following metrics:
