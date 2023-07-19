@@ -60,7 +60,9 @@ b.	What is the number of new users in the last 14 days and what is the revenue g
 Performed Analysis and tried answering the following questions:
 
 •	Plot a chart showing the conversion rate per user for 30 days in any month.
+
 •	Plot a chart showing the grand total conversion rate for different user categories for 30 days in a month.
+
 •	Plot a chart showing the Bounce rates for different countries over a specific period of time. Also show different metrics such as total users, new users, conversion rate per user, time on screen, Average price, Order value, etc. for different countries.
 
 
